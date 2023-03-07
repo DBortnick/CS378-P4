@@ -1,0 +1,34 @@
+.register {
+    height: 150;
+    width: 150;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .register__container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: lightgray;
+    padding: 25px;
+  }
+  .register__textBox {
+    padding: 15px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-family: "copperplate";
+  }
+  .register__btn {
+    padding: 10px;
+    font-size: 18px;
+    margin-bottom: 10px;
+    border: none;
+    color: white;
+    background-color: rgb(79, 76, 76);
+    font-family: "copperplate";
+  }
+  .register div {
+    margin-top: 7px;
+    font-family: "copperplate";
+    color: black;
+  }
