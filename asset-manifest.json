@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CS378-P4/static/css/main.15e1b7c5.css",
-    "main.js": "/CS378-P4/static/js/main.a3b38d71.js",
-    "static/js/787.c2311682.chunk.js": "/CS378-P4/static/js/787.c2311682.chunk.js",
-    "index.html": "/CS378-P4/index.html",
-    "main.15e1b7c5.css.map": "/CS378-P4/static/css/main.15e1b7c5.css.map",
-    "main.a3b38d71.js.map": "/CS378-P4/static/js/main.a3b38d71.js.map",
-    "787.c2311682.chunk.js.map": "/CS378-P4/static/js/787.c2311682.chunk.js.map"
+    "main.css": "/CS378-P4/Login/static/css/main.15e1b7c5.css",
+    "main.js": "/CS378-P4/Login/static/js/main.21a5eae3.js",
+    "static/js/787.c2311682.chunk.js": "/CS378-P4/Login/static/js/787.c2311682.chunk.js",
+    "index.html": "/CS378-P4/Login/index.html",
+    "main.15e1b7c5.css.map": "/CS378-P4/Login/static/css/main.15e1b7c5.css.map",
+    "main.21a5eae3.js.map": "/CS378-P4/Login/static/js/main.21a5eae3.js.map",
+    "787.c2311682.chunk.js.map": "/CS378-P4/Login/static/js/787.c2311682.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.15e1b7c5.css",
-    "static/js/main.a3b38d71.js"
+    "static/js/main.21a5eae3.js"
   ]
 }
